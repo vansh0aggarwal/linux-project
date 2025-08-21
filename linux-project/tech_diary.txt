@@ -1,0 +1,19 @@
+======================= My Linux Tech Diary =======================
+====PROFILE===
+Name : Student
+Roll No : 123456
+--- Favorite Commands ---
+1. ls   - list files
+2. pwd  - show current directory
+3. cat  - read file
+4. nano - edit file
+5. zip  - compress files
+
+
+--- Logbook ---
+3. cat  - read file
+4. nano - edit file
+5. zip  - compress files" > commands.txt
+   19  echo "--- Logbook ---" > log.txt
+   20  history | tail -n 5 >> log.txt
+Quote: "Keep learning, keep growing!"

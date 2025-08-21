@@ -1,0 +1,6 @@
+--- Logbook ---
+3. cat  - read file
+4. nano - edit file
+5. zip  - compress files" > commands.txt
+   19  echo "--- Logbook ---" > log.txt
+   20  history | tail -n 5 >> log.txt
