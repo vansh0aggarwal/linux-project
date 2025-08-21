@@ -1,6 +1,6 @@
 ======================= My Linux Tech Diary =======================
 ====PROFILE===
-Name : Student
+Name : Vansh
 Roll No : 123456
 --- Favorite Commands ---
 1. ls   - list files
